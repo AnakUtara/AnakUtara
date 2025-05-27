@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring full-stack developer transitioning from 7+ years in the creative industry. Recently completed an intensive 4-month Full Stack Web Development Bootcamp at Purwadhika Startup & Coding School (Aug 2024), gaining hands-on experience with JavaScript, TypeScript, Next.js, MySQL, Express.js, and Tailwind CSS. Post-bootcamp, I expanded my skill set by learning PHP and Laravel to strengthen my backend capabilities. I bring a creative background that supports strong problem-solving, design thinking, and adaptability. Eager to grow professionally and contribute meaningfully in a dynamic entry-level role.<br><br>Currently learning flutter, firebase, unity, c#
+Aspiring full-stack developer transitioning from 7+ years in the creative industry. Recently completed an intensive 4-month Full Stack Web Development Bootcamp at Purwadhika Startup & Coding School (Aug 2024), gaining hands-on experience with JavaScript, TypeScript, Next.js, MySQL, Express.js, and Tailwind CSS. Post-bootcamp, I expanded my skill set by learning PHP and Laravel to strengthen my backend capabilities. I bring a creative background that supports strong problem-solving, design thinking, and adaptability. Eager to grow professionally and contribute meaningfully in a dynamic entry-level role.<br><br>Currently learning: Flutter, Dart, Firebase, Unity, & C#
 
 
 ## 🌐 Socials:
