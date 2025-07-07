@@ -1,5 +1,10 @@
 # 💫 About Me:
-Aspiring full-stack developer transitioning from 7+ years in the creative industry. Recently completed an intensive 4-month Full Stack Web Development Bootcamp at Purwadhika Startup & Coding School (Aug 2024), gaining hands-on experience with JavaScript, TypeScript, Next.js, MySQL, Express.js, and Tailwind CSS. Post-bootcamp, I expanded my skill set by learning PHP and Laravel to strengthen my backend capabilities. I bring a creative background that supports strong problem-solving, design thinking, and adaptability. Eager to grow professionally and contribute meaningfully in a dynamic entry-level role.<br><br>Currently learning: Flutter, Dart, Firebase, Unity, & C#
+A career-switcher with 1.5 years of professional experience, I'm a Full Stack Web and Mobile Developer dedicated to building high-quality software. My creative background enhances my approach to problem-solving and user experience.
+
+Proficient in React.js, Next.js, Express.js, PHP (Laravel 10+), and SQL for web development, I also possess growing expertise in Flutter and Dart for cross-platform mobile applications.
+
+My core focus is on delivering maintainable, scalable solutions within predictable and well-structured development environments. Eager to connect for Full Stack or Mobile Developer roles in Indonesia, or remote opportunities across Southeast Asia that prioritize clean code and efficient workflows.
+<br><br>Currently learning: Flutter, Dart, Firebase, Unity, & C#
 
 
 ## 🌐 Socials:
