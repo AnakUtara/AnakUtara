@@ -6,6 +6,33 @@ Proficient in React.js, Next.js, Express.js, Laravel (10+), and SQL, I build rob
 I focus on delivering clean, scalable code within predictable and structured development environments. I'm currently open to Full Stack or Mobile Developer roles in Indonesia or remote opportunities across Southeast Asia—especially where efficiency and code quality are prioritized.
 <br><br>Currently learning: Flutter, Dart, Firebase, Unity, & C#
 
+🌏 **Location:** Indonesia (open to remote)
+
+💬 **Let’s connect!** Open to Full Stack or Mobile Developer roles
+
+---
+
+## 🚀 Featured Projects
+
+- **[TAHC](https://github.com/AnakUtara/tahc)**  
+  The Anonymous Human Chat App – Laravel-powered real-time chat app experimenting with websockets and anonymous user flows.
+
+- **[LLAMS Event Ticketing Website MVP](https://github.com/AnakUtara/Dockerized_JCWD2704_MiniProject)**  
+  Dockerized version of my fullstack web development bootcamp mini project, built primarily with TypeScript and HTML.
+
+- **[OneSmile Front End Developer Associate Promotion Flutter Test](https://github.com/AnakUtara/osa_frontend_flutter_test)**  
+  OneSmile's Full Time Front End Developer Associate Promotion Flutter App Test – cross-platform app built with Flutter.
+
+- **[Hyoshii Packing Performance Tracker Dashboard](https://github.com/AnakUtara/hyoshii-challenge)**  
+  Laravel & Filament-powered dashboard to track packing performance per hour with data visualization and robust CRUD.
+
+- **[Flat Company Profile Website](https://github.com/AnakUtara/Flat)**  
+  Faux Interior Design Agency company profile – Next.js frontend dev challenge with a modern UI.
+
+- **[Farm2Door E-Commerce Website](https://github.com/purwadhikafullstack/JCWD2704-01)**  
+  Shared bootcamp group project repository (details in CV).
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anak.utara) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_AnakUtara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tok.riady@gmail.com) 
