@@ -1,9 +1,9 @@
 # 💫 About Me:
-A career-switcher with 1.5 years of professional experience, I'm a Full Stack Web and Mobile Developer dedicated to building high-quality software. My creative background enhances my approach to problem-solving and user experience.
+I'm a Full Stack Web and Mobile Developer with 1.5 years of professional experience, transitioning from a creative background that sharpens my problem-solving and UX perspective.
 
-Proficient in React.js, Next.js, Express.js, PHP (Laravel 10+), and SQL for web development, I also possess growing expertise in Flutter and Dart for cross-platform mobile applications.
+Proficient in React.js, Next.js, Express.js, Laravel (10+), and SQL, I build robust and maintainable web applications. I'm also growing my expertise in Flutter and Dart to develop cross-platform mobile apps.
 
-My core focus is on delivering maintainable, scalable solutions within predictable and well-structured development environments. Eager to connect for Full Stack or Mobile Developer roles in Indonesia, or remote opportunities across Southeast Asia that prioritize clean code and efficient workflows.
+I focus on delivering clean, scalable code within predictable and structured development environments. I'm currently open to Full Stack or Mobile Developer roles in Indonesia or remote opportunities across Southeast Asia—especially where efficiency and code quality are prioritized.
 <br><br>Currently learning: Flutter, Dart, Firebase, Unity, & C#
 
 
