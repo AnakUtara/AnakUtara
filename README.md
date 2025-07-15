@@ -14,6 +14,9 @@ I focus on delivering clean, scalable code within predictable and structured dev
 
 # 🚀 Featured Projects
 
+- **[Organicer](https://github.com/AnakUtara/Organicer-Demo)**  
+  AI-Powered Item Organizer – Flutter app that uses ML Kit and Gemini API to detect and label multiple items from a single photo, with a dynamic form for user editing and Firebase backend.
+
 - **[TAHC](https://github.com/AnakUtara/tahc)**  
   The Anonymous Human Chat App – Laravel-powered real-time chat app experimenting with websockets and anonymous user flows.
 
