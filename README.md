@@ -14,6 +14,12 @@ I focus on delivering clean, scalable code within predictable and structured dev
 
 # 🚀 Featured Projects
 
+- **[Viable](https://play.google.com/store/apps/details?id=com.x981f.viable&hl=id)**
+  A production-ready, offline-first mobile utility that calculates a freelancer's Minimum Viable Rate. Built with React Native (Fabric) and Drizzle ORM, it transforms complex financial variables—like deep-work hours, tax margins, and holiday buffers—into actionable pricing strategies. [Live on Google Play]
+
+- **[Godot 2D Sidescroller Prototype Kit](https://github.com/9-81f/sidescroller-prototype-kit-base)**
+  An open-source, component-based architectural kit for Godot 4.5+. Focuses on Composition over Inheritance and a data-driven Scene Transport System to decouple gameplay logic from level design, allowing for rapid stage iteration in minutes.
+
 - **[Organicer](https://github.com/AnakUtara/Organicer-Demo)**  
   AI-Powered Item Organizer – Flutter app that uses ML Kit and Gemini API to detect and label multiple items from a single photo, with a dynamic form for user editing and Firebase backend.
 
