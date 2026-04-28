@@ -23,6 +23,10 @@ Product Vision: Architect of Viable, a financial intelligence tool for freelance
 - **[Organicer](https://github.com/AnakUtara/Organicer-Demo)**  
   AI-Powered Item Organizer – Flutter app that uses ML Kit and Gemini API to detect and label multiple items from a single photo, with a dynamic form for user editing and Firebase backend.
 
+- **[Contained Hallway](https://minus981f.itch.io/contained-hallway)**
+  A short top-down pixel art action game where you must survive, find keycards, and escape the monster infested hallway!
+Squash those orb demons with the all-powerful bat! ⚾️
+
 - **[TAHC](https://github.com/AnakUtara/tahc)**  
   The Anonymous Human Chat App – Laravel-powered real-time chat app experimenting with websockets and anonymous user flows.
 
@@ -37,9 +41,6 @@ Product Vision: Architect of Viable, a financial intelligence tool for freelance
 
 - **[Flat Company Profile Website](https://github.com/AnakUtara/Flat)**  
   Faux Interior Design Agency company profile – Next.js frontend dev challenge with a modern UI.
-
-- **[Farm2Door E-Commerce Website](https://github.com/purwadhikafullstack/JCWD2704-01)**  
-  Shared bootcamp group project repository (details in CV).
 
 ---
 
