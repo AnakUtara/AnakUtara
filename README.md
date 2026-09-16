@@ -17,6 +17,10 @@ Product Vision: Architect of Viable, a financial intelligence tool for freelance
 - **[Viable](https://play.google.com/store/apps/details?id=com.x981f.viable&hl=id)**
   A production-ready, offline-first mobile utility that calculates a freelancer's Minimum Viable Rate. Built with React Native (Fabric) and Drizzle ORM, it transforms complex financial variables—like deep-work hours, tax margins, and holiday buffers—into actionable pricing strategies. [Live on Google Play]
 
+- **[A Space To Unwind: 3D Interaction Tech Demo](https://github.com/9-81f/walking-sim-prototype)**
+  This tech demo is a proof-of-concept for a modular, component-based 3D interaction system built in Godot 4.7.
+Set inside a single-floor studio housing (combining living, dining, kitchen, bedroom, and bathroom spaces), players can seamlessly interact with the environment, manage inventory, pickup items like foods, and inspect physical props.
+
 - **[Godot 2D Sidescroller Prototype Kit](https://github.com/9-81f/sidescroller-prototype-kit-base)**
   An open-source, component-based architectural kit for Godot 4.5+. Focuses on Composition over Inheritance and a data-driven Scene Transport System to decouple gameplay logic from level design, allowing for rapid stage iteration in minutes.
 
